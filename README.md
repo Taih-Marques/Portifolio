@@ -16,7 +16,7 @@ Sou um desenvolvedor apaixonado por criar soluções inovadoras. Atualemente cur
 
 Ao longo do meu periodo de aprenndizado adicionarei a este portifolio todaos os projetos desenvolvidos durante o curso, destacando as habilidades adquiridas ao longo do tempo.
 ## Projetos
-- **Projeto 1**: Modelo de site de distribuição de jogos digitais para computadores. [Demo](https://shiki-games.vercel.app) | [Código](https://github.com/Taih-Marques/Skiki-Games)
+- **Projeto 1**: Modelo de site de distribuição de jogos digitais para computadores. [Demo](https://skiki-games.vercel.app/) | [Código](https://github.com/Taih-Marques/Skiki-Games)
 
 ## Tecnologias Utilizadas
 - Linguagens: HTML, CSS
